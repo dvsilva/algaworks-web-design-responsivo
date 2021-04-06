@@ -3,13 +3,13 @@
 github commands
 
 ```bash
-git checkout -b 02-06-enfase-importancia-e-marcacao
+git checkout -b 02-07-imagens
 git add .
-git commit -m "Ênfase, importância e marcação"
-git push origin 02-06-enfase-importancia-e-marcacao
+git commit -m "Imagens"
+git push origin 02-07-imagens
 
 git checkout master
-git merge --no-ff 02-06-enfase-importancia-e-marcacao
+git merge --no-ff 02-07-imagens
 git push
 
 sair da tela de merge
