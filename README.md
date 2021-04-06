@@ -3,13 +3,13 @@
 github commands
 
 ```bash
-git checkout -b 02-02-estrutura-basica-do-documento
+git checkout -b 02-03-doctype-e-codificacao
 git add .
-git commit -m "Estrutura básica do documento"
-git push origin 02-02-estrutura-basica-do-documento
+git commit -m "DOCTYPE e codificação"
+git push origin 02-03-doctype-e-codificacao
 
 git checkout master
-git merge --no-ff 02-02-estrutura-basica-do-documento
+git merge --no-ff 02-03-doctype-e-codificacao
 git push
 
 sair da tela de merge
