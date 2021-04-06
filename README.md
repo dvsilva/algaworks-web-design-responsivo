@@ -3,13 +3,13 @@
 github commands
 
 ```bash
-git checkout -b 02-04-primeiras-tags-titulos-quebras-de-linhas-e-paragrafos
+git checkout -b 02-05-comentarios
 git add .
-git commit -m "Primeiras tags: títulos, quebras de linhas e parágrafos"
-git push origin 02-04-primeiras-tags-titulos-quebras-de-linhas-e-paragrafos
+git commit -m "Comentários"
+git push origin 02-05-comentarios
 
 git checkout master
-git merge --no-ff 02-04-primeiras-tags-titulos-quebras-de-linhas-e-paragrafos
+git merge --no-ff 02-05-comentarios
 git push
 
 sair da tela de merge
