@@ -1,0 +1,1 @@
+tags html -> define apenas a semântica (não aparência)
