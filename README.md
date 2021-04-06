@@ -3,13 +3,13 @@
 github commands
 
 ```bash
-git checkout -b 02-08-ancoras-links
+git checkout -b 02-09-elementos-estruturais
 git add .
-git commit -m "Âncoras (links)"
-git push origin 02-08-ancoras-links
+git commit -m "Elementos estruturais"
+git push origin 02-09-elementos-estruturais
 
 git checkout master
-git merge --no-ff 02-08-ancoras-links
+git merge --no-ff 02-09-elementos-estruturais
 git push
 
 sair da tela de merge
