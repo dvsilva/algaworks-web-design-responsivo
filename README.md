@@ -3,13 +3,13 @@
 github commands
 
 ```bash
-git checkout -b 02-09-elementos-estruturais
+git checkout -b 03-01-o-que-e-css
 git add .
-git commit -m "Elementos estruturais"
-git push origin 02-09-elementos-estruturais
+git commit -m "O que é CSS"
+git push origin 03-01-o-que-e-css
 
 git checkout master
-git merge --no-ff 02-09-elementos-estruturais
+git merge --no-ff 03-01-o-que-e-css
 git push
 
 sair da tela de merge
