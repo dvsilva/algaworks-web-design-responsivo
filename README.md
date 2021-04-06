@@ -3,13 +3,13 @@
 github commands
 
 ```bash
-git checkout -b 02-05-comentarios
+git checkout -b 02-06-enfase-importancia-e-marcacao
 git add .
-git commit -m "Comentários"
-git push origin 02-05-comentarios
+git commit -m "Ênfase, importância e marcação"
+git push origin 02-06-enfase-importancia-e-marcacao
 
 git checkout master
-git merge --no-ff 02-05-comentarios
+git merge --no-ff 02-06-enfase-importancia-e-marcacao
 git push
 
 sair da tela de merge
