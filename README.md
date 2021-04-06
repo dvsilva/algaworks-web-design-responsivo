@@ -3,13 +3,13 @@
 github commands
 
 ```bash
-git checkout -b 03-01-o-que-e-css
+git checkout -b 03-02-estilos-incorporados-e-regras-css
 git add .
-git commit -m "O que é CSS"
-git push origin 03-01-o-que-e-css
+git commit -m "Estilos incorporados e Regras CSS"
+git push origin 03-02-estilos-incorporados-e-regras-css
 
 git checkout master
-git merge --no-ff 03-01-o-que-e-css
+git merge --no-ff 03-02-estilos-incorporados-e-regras-css
 git push
 
 sair da tela de merge
