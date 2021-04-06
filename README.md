@@ -3,13 +3,13 @@
 github commands
 
 ```bash
-git checkout -b 02-07-imagens
+git checkout -b 02-08-ancoras-links
 git add .
-git commit -m "Imagens"
-git push origin 02-07-imagens
+git commit -m "Âncoras (links)"
+git push origin 02-08-ancoras-links
 
 git checkout master
-git merge --no-ff 02-07-imagens
+git merge --no-ff 02-08-ancoras-links
 git push
 
 sair da tela de merge
