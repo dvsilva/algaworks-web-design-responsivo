@@ -3,13 +3,13 @@
 github commands
 
 ```bash
-git checkout -b 03-02-estilos-incorporados-e-regras-css
+git checkout -b 03-03-estilos-em-arquivos-externos
 git add .
-git commit -m "Estilos incorporados e Regras CSS"
-git push origin 03-02-estilos-incorporados-e-regras-css
+git commit -m "Estilos em arquivos externos"
+git push origin 03-03-estilos-em-arquivos-externos
 
 git checkout master
-git merge --no-ff 03-02-estilos-incorporados-e-regras-css
+git merge --no-ff 03-03-estilos-em-arquivos-externos
 git push
 
 sair da tela de merge
