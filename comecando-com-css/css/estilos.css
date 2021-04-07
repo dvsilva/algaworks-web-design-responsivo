@@ -1,4 +1,27 @@
+/* TEXTOS */
+
+.nome {
+  color: #f00;
+
+  /*
+  font-size: 24px;
+  font-family: "Trebuchet MS", sans-serif;
+  font-style: italic;
+  font-weight: bold;
+  */
+
+  font: italic bold 24px "Trebuchet MS", sans-serif;
+
+  text-decoration: underline;
+  text-align: center;
+}
+
+.segmento {
+  font-family: Palatino, serif;
+}
+
 /* CORES */
+/* 
 .caixa1 {
   background-color: blue;
   color: white;
@@ -22,7 +45,8 @@
 .caixa5 {
   background-color: #df0;
   color: #000;
-}
+} 
+*/
 
 /* SELETORES FILHOS DIRETOS */
 /*
