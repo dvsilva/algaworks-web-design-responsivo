@@ -3,13 +3,13 @@
 github commands
 
 ```bash
-git checkout -b 03-05-agrupando-seletores
+git checkout -b 03-06-seletores-descendentes
 git add .
-git commit -m "Agrupando seletores"
-git push origin 03-05-agrupando-seletores
+git commit -m "Seletores descendentes"
+git push origin 03-06-seletores-descendentes
 
 git checkout master
-git merge --no-ff 03-05-agrupando-seletores
+git merge --no-ff 03-06-seletores-descendentes
 git push
 
 sair da tela de merge
