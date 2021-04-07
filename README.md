@@ -3,13 +3,13 @@
 github commands
 
 ```bash
-git checkout -b 03-04-seletores-de-tipo-classe-e-id
+git checkout -b 03-05-agrupando-seletores
 git add .
-git commit -m "Seletores de tipo, classe e ID"
-git push origin 03-04-seletores-de-tipo-classe-e-id
+git commit -m "Agrupando seletores"
+git push origin 03-05-agrupando-seletores
 
 git checkout master
-git merge --no-ff 03-04-seletores-de-tipo-classe-e-id
+git merge --no-ff 03-05-agrupando-seletores
 git push
 
 sair da tela de merge
