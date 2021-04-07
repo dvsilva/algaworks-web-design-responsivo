@@ -3,13 +3,13 @@
 github commands
 
 ```bash
-git checkout -b 03-03-estilos-em-arquivos-externos
+git checkout -b 03-04-seletores-de-tipo-classe-e-id
 git add .
-git commit -m "Estilos em arquivos externos"
-git push origin 03-03-estilos-em-arquivos-externos
+git commit -m "Seletores de tipo, classe e ID"
+git push origin 03-04-seletores-de-tipo-classe-e-id
 
 git checkout master
-git merge --no-ff 03-03-estilos-em-arquivos-externos
+git merge --no-ff 03-04-seletores-de-tipo-classe-e-id
 git push
 
 sair da tela de merge
