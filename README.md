@@ -3,13 +3,13 @@
 github commands
 
 ```bash
-git checkout -b 03-09-formatacao-de-textos
+git checkout -b 03-10-inspecionando-com-chrome-devtools
 git add .
-git commit -m "Formatação de textos"
-git push origin 03-09-formatacao-de-textos
+git commit -m "Inspecionando com Chrome DevTools"
+git push origin 03-10-inspecionando-com-chrome-devtools
 
 git checkout master
-git merge --no-ff 03-09-formatacao-de-textos
+git merge --no-ff 03-10-inspecionando-com-chrome-devtools
 git push
 
 sair da tela de merge
