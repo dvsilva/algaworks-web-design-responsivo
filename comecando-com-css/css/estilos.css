@@ -1,3 +1,30 @@
+/* CORES */
+.caixa1 {
+  background-color: blue;
+  color: white;
+}
+
+.caixa2 {
+  background-color: rgb(255, 0, 0);
+  color: rgb(0, 0, 0);
+}
+
+.caixa3 {
+  background-color: rgb(255, 200, 0);
+  color: rgb(255, 255, 255);
+}
+
+.caixa4 {
+  background-color: #ff00c8;
+  color: #ddff00;
+}
+
+.caixa5 {
+  background-color: #df0;
+  color: #000;
+}
+
+/* SELETORES FILHOS DIRETOS */
 /*
 article .importante {
   color: red;
@@ -10,12 +37,13 @@ article > .importante {
 article > .importante > strong {
   color: red;
 }
-*/
 
 article .importante > strong {
   color: red;
 }
+*/
 
+/* SELETORES DESCENDENTES */
 /*
 .missao strong {
   color: red;
@@ -30,6 +58,7 @@ article .missao strong {
 }
 */
 
+/* AGRUPAMENTO SELETORES */
 /*
 #titulo,
 .missao {
@@ -42,6 +71,7 @@ article .missao strong {
 }
 */
 
+/* SELETORES TIPO, CLASSE E ID  */
 /*
 h1 {
   font-family: Verdana;

@@ -3,13 +3,13 @@
 github commands
 
 ```bash
-git checkout -b 03-07-seletores-de-filhos-diretos
+git checkout -b 03-08-cores
 git add .
-git commit -m "Seletores de filhos diretos"
-git push origin 03-07-seletores-de-filhos-diretos
+git commit -m "Cores"
+git push origin 03-08-cores
 
 git checkout master
-git merge --no-ff 03-07-seletores-de-filhos-diretos
+git merge --no-ff 03-08-cores
 git push
 
 sair da tela de merge
