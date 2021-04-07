@@ -3,13 +3,13 @@
 github commands
 
 ```bash
-git checkout -b 03-10-inspecionando-com-chrome-devtools
+git checkout -b 03-11-entendendo-a-propriedade-display
 git add .
-git commit -m "Inspecionando com Chrome DevTools"
-git push origin 03-10-inspecionando-com-chrome-devtools
+git commit -m "Entendendo a propriedade display"
+git push origin 03-11-entendendo-a-propriedade-display
 
 git checkout master
-git merge --no-ff 03-10-inspecionando-com-chrome-devtools
+git merge --no-ff 03-11-entendendo-a-propriedade-display
 git push
 
 sair da tela de merge
