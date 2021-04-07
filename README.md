@@ -3,13 +3,13 @@
 github commands
 
 ```bash
-git checkout -b 03-08-cores
+git checkout -b 03-09-formatacao-de-textos
 git add .
-git commit -m "Cores"
-git push origin 03-08-cores
+git commit -m "Formatação de textos"
+git push origin 03-09-formatacao-de-textos
 
 git checkout master
-git merge --no-ff 03-08-cores
+git merge --no-ff 03-09-formatacao-de-textos
 git push
 
 sair da tela de merge
