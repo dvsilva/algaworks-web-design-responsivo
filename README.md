@@ -3,13 +3,13 @@
 github commands
 
 ```bash
-git checkout -b 03-11-entendendo-a-propriedade-display
+git checkout -b 03-12-adicionando-bordas
 git add .
-git commit -m "Entendendo a propriedade display"
-git push origin 03-11-entendendo-a-propriedade-display
+git commit -m "Adicionando bordas"
+git push origin 03-12-adicionando-bordas
 
 git checkout master
-git merge --no-ff 03-11-entendendo-a-propriedade-display
+git merge --no-ff 03-12-adicionando-bordas
 git push
 
 sair da tela de merge
