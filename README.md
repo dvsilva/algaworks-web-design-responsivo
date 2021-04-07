@@ -3,13 +3,13 @@
 github commands
 
 ```bash
-git checkout -b 03-12-adicionando-bordas
+git checkout -b 03-13-espacamento-interno-padding
 git add .
-git commit -m "Adicionando bordas"
-git push origin 03-12-adicionando-bordas
+git commit -m "Espaçamento interno (padding)"
+git push origin 03-13-espacamento-interno-padding
 
 git checkout master
-git merge --no-ff 03-12-adicionando-bordas
+git merge --no-ff 03-13-espacamento-interno-padding
 git push
 
 sair da tela de merge
