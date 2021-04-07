@@ -1,1 +1,3 @@
 css -> formatar documentos html
+site para converter hexadecimal -> https://www.binaryhexconverter.com/decimal-to-hex-converter
+paleta de cores -> https://www.colorschemer.com/color-picker/
