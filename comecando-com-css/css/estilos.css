@@ -1,15 +1,34 @@
 /*
+article .importante {
+  color: red;
+}
+
+article > .importante {
+  color: red;
+}
+
+article > .importante > strong {
+  color: red;
+}
+*/
+
+article .importante > strong {
+  color: red;
+}
+
+/*
 .missao strong {
   color: red;
 }
+
 article strong {
   color: blue;
 }
-*/
 
 article .missao strong {
   color: green;
 }
+*/
 
 /*
 #titulo,
