@@ -1,14 +1,28 @@
+/* PADDING */
+body {
+  font-size: 32px;
+}
+
+p {
+  text-align: justify;
+  width: 500px;
+  border: 3px solid red;
+  background-color: yellow;
+
+  padding: 20px 50px;
+  padding-left: 200px;
+}
+
 /* BORDAS */
+/*
 body {
   font-size: 32px;
 }
 
 a {
-  /*
   border-width: thick;
   border-color: red;
   border-style: dashed;
-  */
 
   border: thick blue solid;
   border-bottom: 5px dotted #0f0;
@@ -24,6 +38,7 @@ p {
 
   background-color: #ccc;
 }
+*/
 
 /* DISPLAY */
 /*
