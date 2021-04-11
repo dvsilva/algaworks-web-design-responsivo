@@ -3,13 +3,13 @@
 github commands
 
 ```bash
-git checkout -b 05-02-unidade-de-medida-pixel
+git checkout -b 05-03-unidade-de-medida-percentual
 git add .
-git commit -m "Unidade de medida: pixel"
-git push origin 05-02-unidade-de-medida-pixel
+git commit -m "Unidade de medida: percentual"
+git push origin 05-03-unidade-de-medida-percentual
 
 git checkout master
-git merge --no-ff 05-02-unidade-de-medida-pixel
+git merge --no-ff 05-03-unidade-de-medida-percentual
 git push
 
 sair da tela de merge
