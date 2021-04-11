@@ -3,13 +3,13 @@
 github commands
 
 ```bash
-git checkout -b 05-04-meta-tag-viewport
+git checkout -b 05-05-layout-fixo-e-fluido
 git add .
-git commit -m "Meta tag viewport"
-git push origin 05-04-meta-tag-viewport
+git commit -m "Layout fixo e fluído"
+git push origin 05-05-layout-fixo-e-fluido
 
 git checkout master
-git merge --no-ff 05-04-meta-tag-viewport
+git merge --no-ff 05-05-layout-fixo-e-fluido
 git push
 
 sair da tela de merge
