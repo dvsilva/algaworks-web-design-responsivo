@@ -3,13 +3,13 @@
 github commands
 
 ```bash
-git checkout -b 04-05-flutuando-elementos
+git checkout -b 04-06-usando-pseudo-elementos
 git add .
-git commit -m "Flutuando elementos"
-git push origin 04-05-flutuando-elementos
+git commit -m "Usando pseudo-elementos"
+git push origin 04-06-usando-pseudo-elementos
 
 git checkout master
-git merge --no-ff 04-05-flutuando-elementos
+git merge --no-ff 04-06-usando-pseudo-elementos
 git push
 
 sair da tela de merge
