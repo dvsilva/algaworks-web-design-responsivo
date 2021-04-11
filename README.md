@@ -3,13 +3,13 @@
 github commands
 
 ```bash
-git checkout -b 04-09-as-pseudo-classses-focus-e-hover
+git checkout -b 04-10-reset-css-e-normalize-css
 git add .
-git commit -m "As pseudo-classes :focus e :hover"
-git push origin 04-09-as-pseudo-classses-focus-e-hover
+git commit -m "Reset CSS e Normalize.css"
+git push origin 04-10-reset-css-e-normalize-css
 
 git checkout master
-git merge --no-ff 04-09-as-pseudo-classses-focus-e-hover
+git merge --no-ff 04-10-reset-css-e-normalize-css
 git push
 
 sair da tela de merge
