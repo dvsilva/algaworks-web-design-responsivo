@@ -89,6 +89,11 @@ article > footer {
   text-decoration: none;
 }
 
+.botao:hover,
+.botao:focus {
+  background-color: #0e6400;
+}
+
 /* LISTAS ORDENADAS E NAO ORDENADAS */
 /*
 body {
