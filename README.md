@@ -3,13 +3,13 @@
 github commands
 
 ```bash
-git checkout -b 03-15-box-model-e-a-propriedade-box-sizing
+git checkout -b 04-01-preparando-o-projeto
 git add .
-git commit -m "Box model e a propriedade box-sizing"
-git push origin 03-15-box-model-e-a-propriedade-box-sizing
+git commit -m "Preparando o projeto"
+git push origin 04-01-preparando-o-projeto
 
 git checkout master
-git merge --no-ff 03-15-box-model-e-a-propriedade-box-sizing
+git merge --no-ff 04-01-preparando-o-projeto
 git push
 
 sair da tela de merge
