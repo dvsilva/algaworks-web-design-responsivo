@@ -3,13 +3,13 @@
 github commands
 
 ```bash
-git checkout -b 04-03-listas-ordenadas-e-nao-ordenadas
+git checkout -b 04-04-adicionando-planos
 git add .
-git commit -m "Listas ordenadas e não-ordenadas"
-git push origin 04-03-listas-ordenadas-e-nao-ordenadas
+git commit -m "Adicionando os planos"
+git push origin 04-04-adicionando-planos
 
 git checkout master
-git merge --no-ff 04-03-listas-ordenadas-e-nao-ordenadas
+git merge --no-ff 04-04-adicionando-planos
 git push
 
 sair da tela de merge
