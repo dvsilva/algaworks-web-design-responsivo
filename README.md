@@ -3,13 +3,13 @@
 github commands
 
 ```bash
-git checkout -b 04-08-criando-um-botao
+git checkout -b 04-09-as-pseudo-classses-focus-e-hover
 git add .
-git commit -m "Criando um botão"
-git push origin 04-08-criando-um-botao
+git commit -m "As pseudo-classes :focus e :hover"
+git push origin 04-09-as-pseudo-classses-focus-e-hover
 
 git checkout master
-git merge --no-ff 04-08-criando-um-botao
+git merge --no-ff 04-09-as-pseudo-classses-focus-e-hover
 git push
 
 sair da tela de merge
