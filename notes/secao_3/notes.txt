@@ -1,3 +1,15 @@
 css -> formatar documentos html
 site para converter hexadecimal -> https://www.binaryhexconverter.com/decimal-to-hex-converter
 paleta de cores -> https://www.colorschemer.com/color-picker/
+
+css box model
+- box-sizing: content-box 
+  - valor padrão
+  - tamanho especificado é do conteúdo
+  - quando coloca padding aumenta o tamanho do elemento
+- box-sizing: border-box
+  - tamanho especificado é de todo o conteúdo
+  - independente do pagging ele recalcula para manter o tamanho colocado
+
+
+

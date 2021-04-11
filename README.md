@@ -3,13 +3,13 @@
 github commands
 
 ```bash
-git checkout -b 03-14-margens-de-elementos
+git checkout -b 03-15-box-model-e-a-propriedade-box-sizing
 git add .
-git commit -m "Margens de elementos"
-git push origin 03-14-margens-de-elementos
+git commit -m "Box model e a propriedade box-sizing"
+git push origin 03-15-box-model-e-a-propriedade-box-sizing
 
 git checkout master
-git merge --no-ff 03-14-margens-de-elementos
+git merge --no-ff 03-15-box-model-e-a-propriedade-box-sizing
 git push
 
 sair da tela de merge
