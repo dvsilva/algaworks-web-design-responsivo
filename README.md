@@ -3,13 +3,13 @@
 github commands
 
 ```bash
-git checkout -b 04-06-usando-pseudo-elementos
+git checkout -b 04-07-configurando-os-planos-lado-a-lado-com-float
 git add .
-git commit -m "Usando pseudo-elementos"
-git push origin 04-06-usando-pseudo-elementos
+git commit -m "Configurando os planos lado a lado com float"
+git push origin 04-07-configurando-os-planos-lado-a-lado-com-float
 
 git checkout master
-git merge --no-ff 04-06-usando-pseudo-elementos
+git merge --no-ff 04-07-configurando-os-planos-lado-a-lado-com-float
 git push
 
 sair da tela de merge
