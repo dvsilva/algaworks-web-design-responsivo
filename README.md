@@ -3,13 +3,13 @@
 github commands
 
 ```bash
-git checkout -b 04-01-preparando-o-projeto
+git checkout -b 04-02-criando-cabecalho-da-pagina
 git add .
-git commit -m "Preparando o projeto"
-git push origin 04-01-preparando-o-projeto
+git commit -m "Criando o cabeçalho da página"
+git push origin 04-02-criando-cabecalho-da-pagina
 
 git checkout master
-git merge --no-ff 04-01-preparando-o-projeto
+git merge --no-ff 04-02-criando-cabecalho-da-pagina
 git push
 
 sair da tela de merge
