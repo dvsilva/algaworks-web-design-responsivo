@@ -3,13 +3,13 @@
 github commands
 
 ```bash
-git checkout -b 04-07-configurando-os-planos-lado-a-lado-com-float
+git checkout -b 04-08-criando-um-botao
 git add .
-git commit -m "Configurando os planos lado a lado com float"
-git push origin 04-07-configurando-os-planos-lado-a-lado-com-float
+git commit -m "Criando um botão"
+git push origin 04-08-criando-um-botao
 
 git checkout master
-git merge --no-ff 04-07-configurando-os-planos-lado-a-lado-com-float
+git merge --no-ff 04-08-criando-um-botao
 git push
 
 sair da tela de merge
