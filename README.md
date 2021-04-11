@@ -3,13 +3,13 @@
 github commands
 
 ```bash
-git checkout -b 05-03-unidade-de-medida-percentual
+git checkout -b 05-04-meta-tag-viewport
 git add .
-git commit -m "Unidade de medida: percentual"
-git push origin 05-03-unidade-de-medida-percentual
+git commit -m "Meta tag viewport"
+git push origin 05-04-meta-tag-viewport
 
 git checkout master
-git merge --no-ff 05-03-unidade-de-medida-percentual
+git merge --no-ff 05-04-meta-tag-viewport
 git push
 
 sair da tela de merge
