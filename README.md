@@ -3,13 +3,13 @@
 github commands
 
 ```bash
-git checkout -b 04-06-usando-pseudo-elementos
+git checkout -b 04-08-criando-um-botao
 git add .
-git commit -m "Usando pseudo-elementos"
-git push origin 04-06-usando-pseudo-elementos
+git commit -m "Criando um botão"
+git push origin 04-08-criando-um-botao
 
 git checkout master
-git merge --no-ff 04-06-usando-pseudo-elementos
+git merge --no-ff 04-08-criando-um-botao
 git push
 
 sair da tela de merge
