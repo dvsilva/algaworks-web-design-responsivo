@@ -3,13 +3,13 @@
 github commands
 
 ```bash
-git checkout -b 05-07-como-funciona-um-sistema-de-grid-css
+git checkout -b 05-08-sistema-de-grid-do-bootstrap
 git add .
-git commit -m "Como funciona um sistema de Grid CSS"
-git push origin 05-07-como-funciona-um-sistema-de-grid-css
+git commit -m "Sistema de grid do Bootstrap"
+git push origin 05-08-sistema-de-grid-do-bootstrap
 
 git checkout master
-git merge --no-ff 05-07-como-funciona-um-sistema-de-grid-css
+git merge --no-ff 05-08-sistema-de-grid-do-bootstrap
 git push
 
 sair da tela de merge
