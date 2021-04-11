@@ -3,13 +3,13 @@
 github commands
 
 ```bash
-git checkout -b 04-04-adicionando-planos
+git checkout -b 04-05-flutuando-elementos
 git add .
-git commit -m "Adicionando os planos"
-git push origin 04-04-adicionando-planos
+git commit -m "Flutuando elementos"
+git push origin 04-05-flutuando-elementos
 
 git checkout master
-git merge --no-ff 04-04-adicionando-planos
+git merge --no-ff 04-05-flutuando-elementos
 git push
 
 sair da tela de merge
