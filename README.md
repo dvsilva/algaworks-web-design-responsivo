@@ -3,13 +3,13 @@
 github commands
 
 ```bash
-git checkout -b 04-02-criando-cabecalho-da-pagina
+git checkout -b 04-03-listas-ordenadas-e-nao-ordenadas
 git add .
-git commit -m "Criando o cabeçalho da página"
-git push origin 04-02-criando-cabecalho-da-pagina
+git commit -m "Listas ordenadas e não-ordenadas"
+git push origin 04-03-listas-ordenadas-e-nao-ordenadas
 
 git checkout master
-git merge --no-ff 04-02-criando-cabecalho-da-pagina
+git merge --no-ff 04-03-listas-ordenadas-e-nao-ordenadas
 git push
 
 sair da tela de merge
