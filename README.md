@@ -3,13 +3,13 @@
 github commands
 
 ```bash
-git checkout -b 03-13-espacamento-interno-padding
+git checkout -b 03-14-margens-de-elementos
 git add .
-git commit -m "Espaçamento interno (padding)"
-git push origin 03-13-espacamento-interno-padding
+git commit -m "Margens de elementos"
+git push origin 03-14-margens-de-elementos
 
 git checkout master
-git merge --no-ff 03-13-espacamento-interno-padding
+git merge --no-ff 03-14-margens-de-elementos
 git push
 
 sair da tela de merge
