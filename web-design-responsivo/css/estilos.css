@@ -18,12 +18,15 @@ header img {
   margin-top: 12px;
 }
 
+/* DESABILITADO PARA USAR CONTAINER DO BOOTSTRAP */
+/*
 .container {
   width: 100%;
   padding-left: 15px;
   padding-right: 15px;
   margin: 0 auto;
 }
+*/
 
 #planos {
   padding: 80px 0;
@@ -40,6 +43,8 @@ article {
   border: 1px solid #95a4a5;
 }
 
+/* DESABILITADO PARA USAR GRID DO BOOTSTRAP */
+/*
 @media (min-width: 600px) {
   article {
     background-color: yellow;
@@ -53,6 +58,7 @@ article {
     margin-right: 5%;
   }
 }
+*/
 
 article > h2 {
   background-color: #95a4a5;
