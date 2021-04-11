@@ -3,13 +3,13 @@
 github commands
 
 ```bash
-git checkout -b 05-01-o-que-e-responsive-web-design
+git checkout -b 05-02-unidade-de-medida-pixel
 git add .
-git commit -m "O que é Responsive Web Design?"
-git push origin 05-01-o-que-e-responsive-web-design
+git commit -m "Unidade de medida: pixel"
+git push origin 05-02-unidade-de-medida-pixel
 
 git checkout master
-git merge --no-ff 05-01-o-que-e-responsive-web-design
+git merge --no-ff 05-02-unidade-de-medida-pixel
 git push
 
 sair da tela de merge
