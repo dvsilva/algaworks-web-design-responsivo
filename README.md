@@ -3,13 +3,13 @@
 github commands
 
 ```bash
-git checkout -b 05-05-layout-fixo-e-fluido
+git checkout -b 05-06-layout-responsivo-e-media-queries
 git add .
-git commit -m "Layout fixo e fluído"
-git push origin 05-05-layout-fixo-e-fluido
+git commit -m "Layout responsivo e media queries"
+git push origin 05-06-layout-responsivo-e-media-queries
 
 git checkout master
-git merge --no-ff 05-05-layout-fixo-e-fluido
+git merge --no-ff 05-06-layout-responsivo-e-media-queries
 git push
 
 sair da tela de merge
