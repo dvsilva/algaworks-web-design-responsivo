@@ -3,13 +3,13 @@
 github commands
 
 ```bash
-git checkout -b 04-10-reset-css-e-normalize-css
+git checkout -b 05-01-o-que-e-responsive-web-design
 git add .
-git commit -m "Reset CSS e Normalize.css"
-git push origin 04-10-reset-css-e-normalize-css
+git commit -m "O que é Responsive Web Design?"
+git push origin 05-01-o-que-e-responsive-web-design
 
 git checkout master
-git merge --no-ff 04-10-reset-css-e-normalize-css
+git merge --no-ff 05-01-o-que-e-responsive-web-design
 git push
 
 sair da tela de merge
