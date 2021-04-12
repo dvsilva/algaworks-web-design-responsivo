@@ -3,13 +3,13 @@
 github commands
 
 ```bash
-git checkout -b 05-09-ajustando-o-projeto-para-usar-grid-css
+git checkout -b 06-01-especificidade-do-css
 git add .
-git commit -m "Ajustando o projeto para usar Grid CSS"
-git push origin 05-09-ajustando-o-projeto-para-usar-grid-css
+git commit -m "Especificidade do CSS"
+git push origin 06-01-especificidade-do-css
 
 git checkout master
-git merge --no-ff 05-09-ajustando-o-projeto-para-usar-grid-css
+git merge --no-ff 06-01-especificidade-do-css
 git push
 
 sair da tela de merge
