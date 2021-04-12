@@ -3,13 +3,13 @@
 github commands
 
 ```bash
-git checkout -b 06-01-especificidade-do-css
+git checkout -b 06-02-caos-no-css-porque-uma-metodologia-e-importante
 git add .
-git commit -m "Especificidade do CSS"
-git push origin 06-01-especificidade-do-css
+git commit -m "Caos no CSS: porque uma metodologia é importante?"
+git push origin 06-02-caos-no-css-porque-uma-metodologia-e-importante
 
 git checkout master
-git merge --no-ff 06-01-especificidade-do-css
+git merge --no-ff 06-02-caos-no-css-porque-uma-metodologia-e-importante
 git push
 
 sair da tela de merge
