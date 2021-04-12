@@ -3,13 +3,13 @@
 github commands
 
 ```bash
-git checkout -b 06-03-a-metodologia-bem-seu-codigo-escalavel
+git checkout -b 06-04-como-usar-bem-na-pratica-parte1
 git add .
-git commit -m "A Metodologia BEM: seu código escalável"
-git push origin 06-03-a-metodologia-bem-seu-codigo-escalavel
+git commit -m "Como usar BEM na prática - parte 1"
+git push origin 06-04-como-usar-bem-na-pratica-parte1
 
 git checkout master
-git merge --no-ff 06-03-a-metodologia-bem-seu-codigo-escalavel
+git merge --no-ff 06-04-como-usar-bem-na-pratica-parte1
 git push
 
 sair da tela de merge
