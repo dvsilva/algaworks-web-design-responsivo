@@ -4,3 +4,20 @@ tag < classe < id
 calculo (id, classe e tag [000])
 
 important -> sobresceve outras declarações (evitar ao máximo)
+
+metodologia para css
+- oocss, smacss e bem (http://getbem.com/)
+- Block Element Modifier (BEM)
+  - Block 
+    - visualizar páginas em blocos (bloco/componente)
+    - algo que seja independente e não precise de mais nada
+    - pode ser movido na página e para outras página
+    - pode existir várias vezes em uma página
+    - um bloco não depende de outro
+  - Element
+    - um block pode ter vários elementos
+    - um elemento sozinho não tem significado 
+    - depende do bloco
+  - Modifier
+    - marcação/flag para o bloco ou elemento para mudar a aparência, estado ou comportamento do bloco ou elemento
+
