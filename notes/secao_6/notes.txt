@@ -1,0 +1,6 @@
+especificidade
+tag < classe < id
+
+calculo (id, classe e tag [000])
+
+important -> sobresceve outras declarações (evitar ao máximo)
