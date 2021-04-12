@@ -3,13 +3,13 @@
 github commands
 
 ```bash
-git checkout -b 06-02-caos-no-css-porque-uma-metodologia-e-importante
+git checkout -b 06-03-a-metodologia-bem-seu-codigo-escalavel
 git add .
-git commit -m "Caos no CSS: porque uma metodologia é importante?"
-git push origin 06-02-caos-no-css-porque-uma-metodologia-e-importante
+git commit -m "A Metodologia BEM: seu código escalável"
+git push origin 06-03-a-metodologia-bem-seu-codigo-escalavel
 
 git checkout master
-git merge --no-ff 06-02-caos-no-css-porque-uma-metodologia-e-importante
+git merge --no-ff 06-03-a-metodologia-bem-seu-codigo-escalavel
 git push
 
 sair da tela de merge
