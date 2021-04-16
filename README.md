@@ -3,13 +3,13 @@
 github commands
 
 ```bash
-git checkout -b 06-07-mais-organizacao-css-com-guidelines
+git checkout -b 07-01-unidades-de-medida-em-e-rem
 git add .
-git commit -m "Mais organização: CSS com Guidelines"
-git push origin 06-07-mais-organizacao-css-com-guidelines
+git commit -m "Unidades de medida: em e rem"
+git push origin 07-01-unidades-de-medida-em-e-rem
 
 git checkout master
-git merge --no-ff 06-07-mais-organizacao-css-com-guidelines
+git merge --no-ff 07-01-unidades-de-medida-em-e-rem
 git push
 
 sair da tela de merge
