@@ -3,13 +3,13 @@
 github commands
 
 ```bash
-git checkout -b 06-04-como-usar-bem-na-pratica-parte1
+git checkout -b 06-05-como-usar-bem-na-pratica-parte2
 git add .
-git commit -m "Como usar BEM na prática - parte 1"
-git push origin 06-04-como-usar-bem-na-pratica-parte1
+git commit -m "Como usar BEM na prática - parte 2"
+git push origin 06-05-como-usar-bem-na-pratica-parte2
 
 git checkout master
-git merge --no-ff 06-04-como-usar-bem-na-pratica-parte1
+git merge --no-ff 06-05-como-usar-bem-na-pratica-parte2
 git push
 
 sair da tela de merge
