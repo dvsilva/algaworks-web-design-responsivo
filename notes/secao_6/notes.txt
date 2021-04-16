@@ -22,3 +22,9 @@ metodologia para css
     - marcação/flag para o bloco ou elemento para mudar a aparência, estado ou comportamento do bloco ou elemento
 
 css guidelines (https://cssguidelin.es)
+
+em -> relativo ao pai
+rem -> tamanho de fonte padrão do documento (elemento html)
+
+h1 -> navegador adiciona 2em automaticamente
+border -> se for algo que nao for fonte o em é relativo ao proprio elemento
