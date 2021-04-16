@@ -3,13 +3,13 @@
 github commands
 
 ```bash
-git checkout -b 07-02-ajustando-unidades-de-medida-no-projeto
+git checkout -b 07-03-adicionando-chamada-principal
 git add .
-git commit -m "Ajustando unidades de medida no projeto"
-git push origin 07-02-ajustando-unidades-de-medida-no-projeto
+git commit -m "Adicionando chamada principal"
+git push origin 07-03-adicionando-chamada-principal
 
 git checkout master
-git merge --no-ff 07-02-ajustando-unidades-de-medida-no-projeto
+git merge --no-ff 07-03-adicionando-chamada-principal
 git push
 
 sair da tela de merge
