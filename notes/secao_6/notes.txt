@@ -23,8 +23,8 @@ metodologia para css
 
 css guidelines (https://cssguidelin.es)
 
-em -> relativo ao pai
-rem -> tamanho de fonte padrão do documento (elemento html)
+em -> relativo ao pai (definir para elementos do bloco)
+rem -> tamanho de fonte padrão do documento (elemento html) (definir para o bloco)
 
 h1 -> navegador adiciona 2em automaticamente
 border -> se for algo que nao for fonte o em é relativo ao proprio elemento

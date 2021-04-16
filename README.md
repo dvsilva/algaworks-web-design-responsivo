@@ -3,13 +3,13 @@
 github commands
 
 ```bash
-git checkout -b 07-01-unidades-de-medida-em-e-rem
+git checkout -b 07-02-ajustando-unidades-de-medida-no-projeto
 git add .
-git commit -m "Unidades de medida: em e rem"
-git push origin 07-01-unidades-de-medida-em-e-rem
+git commit -m "Ajustando unidades de medida no projeto"
+git push origin 07-02-ajustando-unidades-de-medida-no-projeto
 
 git checkout master
-git merge --no-ff 07-01-unidades-de-medida-em-e-rem
+git merge --no-ff 07-02-ajustando-unidades-de-medida-no-projeto
 git push
 
 sair da tela de merge
