@@ -3,13 +3,13 @@
 github commands
 
 ```bash
-git checkout -b 06-06-ajustando-projeto-curso-bem
+git checkout -b 06-07-mais-organizacao-css-com-guidelines
 git add .
-git commit -m "Ajustando o projeto do curso com BEM"
-git push origin 06-06-ajustando-projeto-curso-bem
+git commit -m "Mais organização: CSS com Guidelines"
+git push origin 06-07-mais-organizacao-css-com-guidelines
 
 git checkout master
-git merge --no-ff 06-06-ajustando-projeto-curso-bem
+git merge --no-ff 06-07-mais-organizacao-css-com-guidelines
 git push
 
 sair da tela de merge

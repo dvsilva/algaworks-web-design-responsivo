@@ -21,3 +21,4 @@ metodologia para css
   - Modifier
     - marcação/flag para o bloco ou elemento para mudar a aparência, estado ou comportamento do bloco ou elemento
 
+css guidelines (https://cssguidelin.es)
