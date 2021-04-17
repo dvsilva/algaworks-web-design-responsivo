@@ -3,13 +3,13 @@
 github commands
 
 ```bash
-git checkout -b 07-09-adicionando-rotulo-no-plano
+git checkout -b 07-10-ajustando-margem-do-plano
 git add .
-git commit -m "Adicionando rótulo no plano"
-git push origin 07-09-adicionando-rotulo-no-plano
+git commit -m "Ajustando margem do plano"
+git push origin 07-10-ajustando-margem-do-plano
 
 git checkout master
-git merge --no-ff 07-09-adicionando-rotulo-no-plano
+git merge --no-ff 07-10-ajustando-margem-do-plano
 git push
 
 sair da tela de merge
