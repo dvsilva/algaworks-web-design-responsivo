@@ -3,13 +3,13 @@
 github commands
 
 ```bash
-git checkout -b 07-04-adicionando-depoimento
+git checkout -b 07-05-adicionando-rodape
 git add .
-git commit -m "Adicionando depoimento"
-git push origin 07-04-adicionando-depoimento
+git commit -m "Adicionando rodapé"
+git push origin 07-05-adicionando-rodape
 
 git checkout master
-git merge --no-ff 07-04-adicionando-depoimento
+git merge --no-ff 07-05-adicionando-rodape
 git push
 
 sair da tela de merge
