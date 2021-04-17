@@ -3,13 +3,13 @@
 github commands
 
 ```bash
-git checkout -b 07-16-criando-um-formulario-assinatura-de-plano
+git checkout -b 07-17-concluindo-formulario-de-assinatura-de-plano
 git add .
-git commit -m "Criando um formulário: assinatura de plano"
-git push origin 07-16-criando-um-formulario-assinatura-de-plano
+git commit -m "Concluindo o formulário de assinatura de plano"
+git push origin 07-17-concluindo-formulario-de-assinatura-de-plano
 
 git checkout master
-git merge --no-ff 07-16-criando-um-formulario-assinatura-de-plano
+git merge --no-ff 07-17-concluindo-formulario-de-assinatura-de-plano
 git push
 
 sair da tela de merge
