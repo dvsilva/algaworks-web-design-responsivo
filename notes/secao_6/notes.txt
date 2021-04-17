@@ -28,3 +28,8 @@ rem -> tamanho de fonte padrão do documento (elemento html) (definir para o blo
 
 h1 -> navegador adiciona 2em automaticamente
 border -> se for algo que nao for fonte o em é relativo ao proprio elemento
+
+posicionamento
+- static -> padrão dos elementos
+- fixed -> fixa um elemento em uma posição em relação a viewport mesmo com scroll o elemento continua ali
+- 
