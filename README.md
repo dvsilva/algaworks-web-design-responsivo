@@ -3,13 +3,13 @@
 github commands
 
 ```bash
-git checkout -b 07-07-posicionamento-relativo
+git checkout -b 07-08-posicionamento-absoluto
 git add .
-git commit -m "Posicionamento relativo"
-git push origin 07-07-posicionamento-relativo
+git commit -m "Posicionamento absoluto"
+git push origin 07-08-posicionamento-absoluto
 
 git checkout master
-git merge --no-ff 07-07-posicionamento-relativo
+git merge --no-ff 07-08-posicionamento-absoluto
 git push
 
 sair da tela de merge
