@@ -3,13 +3,13 @@
 github commands
 
 ```bash
-git checkout -b 07-10-ajustando-margem-do-plano
+git checkout -b 07-11-adicionando-aspas-no-depoimento
 git add .
-git commit -m "Ajustando margem do plano"
-git push origin 07-10-ajustando-margem-do-plano
+git commit -m "Adicionando aspas no depoimento"
+git push origin 07-11-adicionando-aspas-no-depoimento
 
 git checkout master
-git merge --no-ff 07-10-ajustando-margem-do-plano
+git merge --no-ff 07-11-adicionando-aspas-no-depoimento
 git push
 
 sair da tela de merge
