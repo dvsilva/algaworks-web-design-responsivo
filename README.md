@@ -3,13 +3,13 @@
 github commands
 
 ```bash
-git checkout -b 07-12-adicionando-bloco-de-navegacao
+git checkout -b 07-13-adicionando-menu-para-telas-pequenas
 git add .
-git commit -m "Adicionando o bloco de navegação"
-git push origin 07-12-adicionando-bloco-de-navegacao
+git commit -m "Adicionando o menu para telas pequenas"
+git push origin 07-13-adicionando-menu-para-telas-pequenas
 
 git checkout master
-git merge --no-ff 07-12-adicionando-bloco-de-navegacao
+git merge --no-ff 07-13-adicionando-menu-para-telas-pequenas
 git push
 
 sair da tela de merge
