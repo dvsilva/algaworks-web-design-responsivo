@@ -3,13 +3,13 @@
 github commands
 
 ```bash
-git checkout -b 07-08-posicionamento-absoluto
+git checkout -b 07-09-adicionando-rotulo-no-plano
 git add .
-git commit -m "Posicionamento absoluto"
-git push origin 07-08-posicionamento-absoluto
+git commit -m "Adicionando rótulo no plano"
+git push origin 07-09-adicionando-rotulo-no-plano
 
 git checkout master
-git merge --no-ff 07-08-posicionamento-absoluto
+git merge --no-ff 07-09-adicionando-rotulo-no-plano
 git push
 
 sair da tela de merge
