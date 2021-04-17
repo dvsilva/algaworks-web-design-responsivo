@@ -45,7 +45,6 @@
   text-align: center;
 }
 
-
 /*--------------------*\
   BOTAO
 \*--------------------*/
@@ -60,7 +59,8 @@
   text-decoration: none;
 }
 
-.botao:hover, .botao:focus {
+.botao:hover,
+.botao:focus {
   background-color: #aaa;
   color: #fff;
 
@@ -71,7 +71,8 @@
   background-color: #127d00;
 }
 
-.botao--assinar:hover, .botao--assinar:focus {
+.botao--assinar:hover,
+.botao--assinar:focus {
   background-color: #0e6400;
 }
 
@@ -81,10 +82,10 @@
   background-color: #004b86;
 }
 
-.botao--principal:hover, .botao--principal:focus {
+.botao--principal:hover,
+.botao--principal:focus {
   background-color: #003b6a;
 }
-
 
 /*--------------------*\
   CHAMADA
@@ -116,11 +117,50 @@
   font-size: 1em;
 }
 
-@media(min-width: 992px) {
+@media (min-width: 992px) {
   .chamada {
     padding-left: 10%;
     padding-right: 10%;
 
     font-size: 2.2rem; /* 2.2 * 10px = 22px */
   }
+}
+
+/*--------------------*\
+  DEPOIMENTO
+\*--------------------*/
+.depoimento {
+  font-size: 2.2rem; /* 22px */
+}
+
+@media (min-width: 992px) {
+  .depoimento {
+    padding-left: 15%;
+    padding-right: 15%;
+
+    font-size: 2.8rem;
+  }
+}
+
+.depoimento > blockquote {
+  margin: 0;
+  padding: 0 60px;
+
+  text-align: center;
+  font-size: 1em;
+}
+
+.depoimento__autor {
+  margin-top: 40px;
+
+  text-align: center;
+  font-size: 0.7272em;
+}
+
+.depoimento__autor > img {
+  border-radius: 50%;
+}
+
+.depoimento__autor > p {
+  margin-top: 10px;
 }
