@@ -3,13 +3,13 @@
 github commands
 
 ```bash
-git checkout -b 07-19-aplicando-estilos-em-tabelas-com-css
+git checkout -b 07-20-conclusao-e-proximos-passos
 git add .
-git commit -m "Aplicando estilos em tabelas com CSS"
-git push origin 07-19-aplicando-estilos-em-tabelas-com-css
+git commit -m "Conclusão e próximos passos"
+git push origin 07-20-conclusao-e-proximos-passos
 
 git checkout master
-git merge --no-ff 07-19-aplicando-estilos-em-tabelas-com-css
+git merge --no-ff 07-20-conclusao-e-proximos-passos
 git push
 
 sair da tela de merge
