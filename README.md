@@ -3,13 +3,13 @@
 github commands
 
 ```bash
-git checkout -b 07-13-adicionando-menu-para-telas-pequenas
+git checkout -b 07-14-ajustando-menu-para-telas-medias-e-grandes
 git add .
-git commit -m "Adicionando o menu para telas pequenas"
-git push origin 07-13-adicionando-menu-para-telas-pequenas
+git commit -m "Ajustando o menu para telas médias e grandes"
+git push origin 07-14-ajustando-menu-para-telas-medias-e-grandes
 
 git checkout master
-git merge --no-ff 07-13-adicionando-menu-para-telas-pequenas
+git merge --no-ff 07-14-ajustando-menu-para-telas-medias-e-grandes
 git push
 
 sair da tela de merge
