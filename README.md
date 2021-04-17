@@ -1,25 +1,41 @@
-# algaworks-web-design-responsivo
+# Web Design Responsivo com HTML5, CSS3 e BEM da Algaworks
 
-github commands
+Descrição: Aprenda a criar páginas web responsivas do zero e com uma metodologia que possibilite escalar o seu código.
 
-```bash
-git checkout -b 07-20-conclusao-e-proximos-passos
-git add .
-git commit -m "Conclusão e próximos passos"
-git push origin 07-20-conclusao-e-proximos-passos
+Link: 🔗[Curso Web Design Responsivo com HTML5, CSS3 e BEM by Algaworks](https://www.algaworks.com/curso/web-design-responsivo-html5-css3-bem)
 
-git checkout master
-git merge --no-ff 07-20-conclusao-e-proximos-passos
-git push
+## 💻 Projeto do curso
 
-sair da tela de merge
-aperte "ESC" depois digite ":wq"
-configure other merge tool
-git config --global core.editor "'C:/Program Files/Notepad++/notepad++.exe' -multiInst -notabbar -nosession -noPlugin"
+MyPilas - Projeto de landing page para oferecimento de um produto (MyPilas). A landing page é composta de menu, chamada principal, depoimentos, planos e rodpé. Envolveu a implementação de uma landing page, formulário e tabela de forma responsiva e adaptável a diversos tamanhos de telas.
 
-// delete branch locally
-git branch -d localBranchName
+## :camera: Demonstração
 
-// delete branch remotely
-git push origin --delete remoteBranchName
-```
+![Projeto - MyPilas - Demonstração Desktop em Gif Animado](demo/demo-desktop.gif)
+
+![Projeto - MyPilas - Demonstração Mobile em Gif Animado](demo/demo-mobile.gif)
+
+## :rocket: Conceitos e tecnologias
+
+✔️ HTML e CSS
+
+✔️ Reset CSS e Normalize.css
+
+✔️ CSS Guidelines
+
+✔️ Bootstrap
+
+✔️ Web Design Responsivo
+
+✔️ Especificidade, BEM e boas práticas
+
+✔️ JavaScript Hook
+
+✔️ Tabelas
+
+✔️ Chrome DevTools
+
+## :phone: Contato
+
+<img src="https://github.com/paulrobertlloyd/socialmediaicons/blob/main/linkedin-16x16.png?raw=true" /> Linkedin [https://www.linkedin.com/in/danyllo-valente-da-silva-3569b460](https://www.linkedin.com/in/danyllo-valente-da-silva-3569b460)
+
+:postbox: E-mail [danyllo.dvs@gmail.com](danyllo.dvs@gmail.com)
