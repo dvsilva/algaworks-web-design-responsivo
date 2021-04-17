@@ -3,13 +3,13 @@
 github commands
 
 ```bash
-git checkout -b 07-14-ajustando-menu-para-telas-medias-e-grandes
+git checkout -b 07-15-javascript-hook-chaveando-o-menu
 git add .
-git commit -m "Ajustando o menu para telas médias e grandes"
-git push origin 07-14-ajustando-menu-para-telas-medias-e-grandes
+git commit -m "JavaScript Hook: chaveando o menu"
+git push origin 07-15-javascript-hook-chaveando-o-menu
 
 git checkout master
-git merge --no-ff 07-14-ajustando-menu-para-telas-medias-e-grandes
+git merge --no-ff 07-15-javascript-hook-chaveando-o-menu
 git push
 
 sair da tela de merge
