@@ -3,13 +3,13 @@
 github commands
 
 ```bash
-git checkout -b 07-17-concluindo-formulario-de-assinatura-de-plano
+git checkout -b 07-18-entendendo-as-tabelas-do-html
 git add .
-git commit -m "Concluindo o formulário de assinatura de plano"
-git push origin 07-17-concluindo-formulario-de-assinatura-de-plano
+git commit -m "Entendendo as tabelas do HTML"
+git push origin 07-18-entendendo-as-tabelas-do-html
 
 git checkout master
-git merge --no-ff 07-17-concluindo-formulario-de-assinatura-de-plano
+git merge --no-ff 07-18-entendendo-as-tabelas-do-html
 git push
 
 sair da tela de merge
