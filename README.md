@@ -3,13 +3,13 @@
 github commands
 
 ```bash
-git checkout -b 07-03-adicionando-chamada-principal
+git checkout -b 07-04-adicionando-depoimento
 git add .
-git commit -m "Adicionando chamada principal"
-git push origin 07-03-adicionando-chamada-principal
+git commit -m "Adicionando depoimento"
+git push origin 07-04-adicionando-depoimento
 
 git checkout master
-git merge --no-ff 07-03-adicionando-chamada-principal
+git merge --no-ff 07-04-adicionando-depoimento
 git push
 
 sair da tela de merge
