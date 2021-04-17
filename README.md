@@ -3,13 +3,13 @@
 github commands
 
 ```bash
-git checkout -b 07-05-adicionando-rodape
+git checkout -b 07-06-posicionamento-estatico-e-fixo
 git add .
-git commit -m "Adicionando rodapé"
-git push origin 07-05-adicionando-rodape
+git commit -m "Posicionamento estático e fixo"
+git push origin 07-06-posicionamento-estatico-e-fixo
 
 git checkout master
-git merge --no-ff 07-05-adicionando-rodape
+git merge --no-ff 07-06-posicionamento-estatico-e-fixo
 git push
 
 sair da tela de merge
