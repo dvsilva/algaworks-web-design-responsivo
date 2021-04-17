@@ -32,5 +32,7 @@ border -> se for algo que nao for fonte o em é relativo ao proprio elemento
 posicionamento
 - static -> padrão dos elementos
 - fixed -> fixa um elemento em uma posição em relação a viewport mesmo com scroll o elemento continua ali
-- relative -> relativo a onde deveria estar e ao espaço que deveria estar ocupando
-- 
+- relative -> relativo a onde deveria estar e ao espaço que deveria estar ocupando (fica em cima do conteudo estático)
+- absolute 
+  - relativo ao documento / posiciona exatamente onde quer (fica em cima do conteudo estático)
+  - considera o primeiro elemento pai que esta com position absolute ou relative
