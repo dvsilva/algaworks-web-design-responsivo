@@ -6,6 +6,10 @@ Link: 🔗[Curso Web Design Responsivo com HTML5, CSS3 e BEM by Algaworks](https
 
 ## 💻 Projeto do curso
 
+<div align="center">
+  <img alt="GoStack" src="mypilas/imagens/logo.png" width="120px" />
+</div>
+
 MyPilas - Projeto de landing page para oferecimento de um produto (MyPilas). A landing page é composta de menu, chamada principal, depoimentos, planos e rodpé. Envolveu a implementação de uma landing page, formulário e tabela de forma responsiva e adaptável a diversos tamanhos de telas.
 
 ## :camera: Demonstração
