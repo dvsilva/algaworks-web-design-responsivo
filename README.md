@@ -3,13 +3,13 @@
 github commands
 
 ```bash
-git checkout -b 07-06-posicionamento-estatico-e-fixo
+git checkout -b 07-07-posicionamento-relativo
 git add .
-git commit -m "Posicionamento estático e fixo"
-git push origin 07-06-posicionamento-estatico-e-fixo
+git commit -m "Posicionamento relativo"
+git push origin 07-07-posicionamento-relativo
 
 git checkout master
-git merge --no-ff 07-06-posicionamento-estatico-e-fixo
+git merge --no-ff 07-07-posicionamento-relativo
 git push
 
 sair da tela de merge
