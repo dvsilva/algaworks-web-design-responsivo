@@ -18,6 +18,10 @@ MyPilas - Projeto de landing page para oferecimento de um produto (MyPilas). A l
 
 ![Projeto - MyPilas - Demonstração Mobile em Gif Animado](demo/demo-mobile.gif)
 
+## 🌏 Projeto online
+
+- [MyPilas - Github IO](https://dvsilva.github.io/algaworks-web-design-responsivo/mypilas/)
+
 ## :rocket: Conceitos e tecnologias
 
 ✔️ HTML e CSS
