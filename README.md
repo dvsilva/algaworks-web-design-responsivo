@@ -3,13 +3,13 @@
 github commands
 
 ```bash
-git checkout -b 07-11-adicionando-aspas-no-depoimento
+git checkout -b 07-12-adicionando-bloco-de-navegacao
 git add .
-git commit -m "Adicionando aspas no depoimento"
-git push origin 07-11-adicionando-aspas-no-depoimento
+git commit -m "Adicionando o bloco de navegação"
+git push origin 07-12-adicionando-bloco-de-navegacao
 
 git checkout master
-git merge --no-ff 07-11-adicionando-aspas-no-depoimento
+git merge --no-ff 07-12-adicionando-bloco-de-navegacao
 git push
 
 sair da tela de merge
